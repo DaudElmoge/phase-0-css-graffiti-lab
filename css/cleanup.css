@@ -1,1 +1,28 @@
-/* write your override styles here */
+/* Hiding tag 1 */
+#wall .tag-1 {
+  display: none;
+}
+/* Hiding tag 2 */
+#wall .tag-2 {
+  display: none;
+}
+/* Hiding tag 3 */
+#wall .tag-3 {
+  display: none;
+}
+/* Hiding tag 4 */
+#wall .tag-4 {
+  display: none;
+}
+/* Hiding tag 5 */
+#wall .tag-5 {
+  display: none;
+}
+/* Hiding tag 6 */
+#wall .tag-6 {
+  display: none;
+}
+/* Hiding tag 7 */
+#wall .tag-7 {
+  display: none;
+}
